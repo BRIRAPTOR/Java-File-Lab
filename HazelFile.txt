@@ -1,0 +1,1 @@
+Read one byte at a time until end of file (-1 means "no more data")
